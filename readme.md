@@ -1,5 +1,8 @@
 # Three.js Journey
 
+This project was made to understand the use of lights in three.js
+I am following a tutorial from Bruno S.
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
